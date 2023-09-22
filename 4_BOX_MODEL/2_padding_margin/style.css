@@ -1,0 +1,23 @@
+div{
+    border: 5px dotted rgb(0, 0, 0);
+    width: fit-content;
+
+    /* font-size: 24px;
+    padding-top: 10px;
+    padding-right:20px;
+    padding-bottom:30px;
+    padding-left: 40px; */
+
+
+    /*shorthand*/
+    /* 1 valor pra todos os 4 lados */
+    padding:20px  ;
+
+     /* 2 valores = primeiro top e bottom/segundo right e  left  */
+     padding: 30px 60px;
+
+     /* 3 valores =1 top/2 right e left /3 bottom */
+      padding:20px 50px 5px ;
+     /* 3 valores =1 top/2 right e left /3 bottom */
+
+}

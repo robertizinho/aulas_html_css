@@ -1,0 +1,22 @@
+.caixa_width {
+    /*espressura,tipo e a cor=>width,style,color */
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: rgb(32, 160, 199); */
+
+    /*shortand=> varios valores na mesma propriedade*/
+    border: 2px solid rgb(32, 160, 199) ;
+
+    width: 500px;
+}
+
+.imagem_width{
+    width: 100px;
+}
+
+.caixa_height{
+    border:1px dashed royalblue;
+
+    height:100px ;
+    width: 100px;
+}
